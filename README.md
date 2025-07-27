@@ -18,7 +18,6 @@ I'm passionate about creating meaningful digital solutions that solve real-world
 
 **🌱 Currently Learning:** Advanced React patterns, Cloud technologies, DevOps practices  
 **🎯 Goal:** Building impactful software solutions  
-**⚡ Fun fact:** I love solving complex problems and was a netball player!
 
 <br clear="right"/>
 
@@ -97,15 +96,6 @@ Modern, responsive online shopping experience with clean architecture.
 
 ---
 
-### 🤝 EduBridge Donation Platform
-UI/UX design for connecting donors with underprivileged children.
-
-- **🎨 Interactive Wireframes:** Created with Axure RP
-- **✨ High-Fidelity Design:** Developed in Figma
-- **💝 Mission:** Supporting education for underprivileged children
-- **🛠️ Tools:** Figma, Axure RP
-
----
 
 ## Let's Connect!
 
